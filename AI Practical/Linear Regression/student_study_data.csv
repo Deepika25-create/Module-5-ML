@@ -1,0 +1,11 @@
+Hours_Studied,Attendance,Previous_Grade,Gender,Extra_Coaching,Final_Grade
+5,85,A,Male,Yes,78
+8,90,B,Female,No,85
+4,,C,Male,Yes,62
+9,95,B,Female,No,88
+7,80,A,,Yes,75
+3,70,C,Male,No,55
+6,88,B,Female,Yes,80
+10,92,A,Male,No,90
+,,C,Female,Yes,60
+2,65,D,Male,No,48
